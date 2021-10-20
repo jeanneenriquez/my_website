@@ -1,9 +1,9 @@
 ---
 date: "2017-10-31T22:27:21-05:00"
 draft: false
-image: pic02.jpg
+image: IMG_9396.JPG
 slug: blogs
-title: Lifestyle
+title: Discover My Universe 
 ---
 
-My blogs about technology and lifestyle.
+Go Ahead!!

@@ -3,10 +3,7 @@ categories:
 - ""
 - ""
 date: "2017-10-31T22:42:51-05:00"
-description: Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna
-  sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa
-  sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem
-  consequat tincidunt. Vivamus et sagittis tempus.
+description: City that you should definetely visit!
 draft: false
 image: 552535-des-paniers-de-fromages-et-de-vins-livres-chez-vous.jpg
 keywords: ""
@@ -14,4 +11,4 @@ slug: paris
 title: Paris
 ---
 
-blablabla
+I can share with you how I spend my time in Paris. It is quite simple... I am just meeting friends at a terrasse,  we order cheese plates (with great baguette of course, this is not a French cliché) and drink red wine. You don't need much to be happy in life!  

@@ -3,10 +3,12 @@ categories:
 - ""
 - ""
 date: "2017-10-31T22:26:09-05:00"
-description: Lorem Etiam Nullam
+description: Power Nap 
 draft: false
-image: pic09.jpg
+image: IMG_0136.jpg
 keywords: ""
-slug: magna
-title: Magna
+slug: hike
+title: Hiking
 ---
+
+The first mountain that I climbed was Kilimanjaro. It was very tiring so I had to take a power nap with my family!
