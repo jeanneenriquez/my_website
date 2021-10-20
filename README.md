@@ -1,2 +1,2 @@
-# my_websit
+# my_website
 This is website!
